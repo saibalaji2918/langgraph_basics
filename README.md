@@ -29,3 +29,12 @@ Use the following shortcuts to open the integrated terminal:
 - Use the terminal for building, testing, and deployment tasks.
 
 Happy coding! 🎉
+
+
+
+## reuirments.txt
+
+pip install uv
+uv pip install langgraph langchain langchain-core langchain-community
+uv pip install langchain-openai langgraph-checkpoint
+uv pip install duckduckgo-search beautifulsoup4 requests python-dotenv pydantic typing-extensions
